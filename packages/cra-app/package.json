@@ -1,9 +1,9 @@
 {
-  "name": "@my-org/cra-app",
+  "name": "@johannchen/cra-app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@my-org/ui-story": "*",
+    "@johannchen/ui-story": "*",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "^3.4.1"
