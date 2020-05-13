@@ -1,14 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import {MyNewComponent} from '@my-org/my-monorepo-ui-lib';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import { MyNewComponent } from "@my-org/ui-story";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <MyNewComponent text="this is our library component"/>
+        <MyNewComponent text="this is our library component" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
