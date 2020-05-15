@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-app",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.21.19",
+    "gatsby-plugin-typescript": "^2.4.2",
+    "@johannchen/ui-story": "^0.0.2"
+  },
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
