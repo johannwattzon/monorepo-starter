@@ -1,6 +1,6 @@
 # Monorepo starter
 
-Starter for Monorepos: Lerna, TypeScript, CRA, Gatsby and Storybook
+Starter for Monorepos: Lerna, TypeScript, CRA, Gatsby, Chrome Extension and Storybook
 
 ## Deploy
 
@@ -10,4 +10,3 @@ Starter for Monorepos: Lerna, TypeScript, CRA, Gatsby and Storybook
 ## TODO:
 
 - script to deploy to zeit now
-- setup gatsby

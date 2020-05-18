@@ -12,7 +12,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build-ext": "cross-env INLINE_RUNTIME_CHUNK=false  react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +35,7 @@
     "@types/node": "^14.0.1",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
-    "typescript": "^3.9.2"
+    "typescript": "^3.9.2",
+    "cross-env": "^7.0.2"
   }
 }
